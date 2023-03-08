@@ -1,6 +1,7 @@
 # my-quarkus-app-30
 
 test
+123
 
 ## Running the application in dev mode
 
